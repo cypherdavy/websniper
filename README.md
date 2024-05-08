@@ -1,7 +1,7 @@
 # WebSniper
 WebSniper is a powerful web security scanning tool that can help you identify potential vulnerabilities in your web applications. With its advanced scanning capabilities, WebSniper can quickly and accurately detect open ports, SQL injection vulnerabilities, and other security weaknesses. 
 
-# i have created more advanced branches of this tool , will be uploading as websniper1.o.py
+# I have created more advanced branches of this tool , will be uploading as websniper1.o.py
 
 ## Features
 - Scans for open ports on web servers
@@ -27,7 +27,7 @@ The script found two open ports (80 and 443) and successfully injected the paylo
 * To install WebSniper, simply clone the repository and run the websniper.py script:
 Clone the repository:
 ```bash
- git clone https://github.com/<your-github-username>/websniper.git 
+ git clone https://github.com/cypherdavy/websniper.git 
 ```
 * Navigate to the repository directory: 
 ```bash
@@ -43,7 +43,7 @@ Make the script executable:
 
 Clone the repository:
 ```bash
- git clone https://github.com/<your-github-username>/websniper.git 
+ git clone https://github.com/cypherdavy/websniper.git
 ```
 * Navigate to the repository directory: 
 ```bash
