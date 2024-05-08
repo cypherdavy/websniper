@@ -15,7 +15,7 @@ def scan_ports(host, start_port, end_port):
         result = sock.connect_ex((host, port))
         if result == 0:
             vulnerable_ports.append(port)
-        sock.close()
+            sock.close()
     return vulnerable_ports
 
 def create_payload():
